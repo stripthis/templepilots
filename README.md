@@ -29,6 +29,9 @@ Sitemap
 
 ![sitemap](https://raw.githubusercontent.com/stripthis/templepilots/gh-pages/ux/Templepilots%20Online%20Course%20-%20User%20Journey.png "Sitemap")
 
+Source:
+https://docs.google.com/drawings/d/1IwbUy1da86G2feYurdRBvdd5o1oeIc6At6BjGAxtc3U/edit?usp=sharing
+
 
 License
 ==============
