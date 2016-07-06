@@ -27,7 +27,7 @@ https://stripthis.github.io/templepilots/html
 Sitemap
 ==============
 
-(sitemap)[https://raw.githubusercontent.com/stripthis/templepilots/gh-pages/ux/Templepilots%20Online%20Course%20-%20User%20Journey.png]
+![sitemap](https://raw.githubusercontent.com/stripthis/templepilots/gh-pages/ux/Templepilots%20Online%20Course%20-%20User%20Journey.png "Sitemap")
 
 
 License
